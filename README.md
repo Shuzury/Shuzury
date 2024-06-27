@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaunak Sen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuzury&label=Profile%20views&color=0e75b6&style=flat" alt="shuzury" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuzury&label=Profile%20views&color=0e75b6&style=flat" alt="shuzury" /> </p>
+ -->
 - 🌱 I’m currently learning **Full Stack Web development ,DSA**
 
 - 🤝 I’m looking for help with **Cloud computing**
